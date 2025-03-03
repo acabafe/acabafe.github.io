@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ACABAF&#39;s personal blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on ACABAF&#39;s personal blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Mar 2025 18:43:09 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Reason to Write Something</title>
+      <link>http://localhost:1313/posts/the_reason_to_write_sth/</link>
+      <pubDate>Sun, 02 Mar 2025 18:43:09 -0700</pubDate>
+      <guid>http://localhost:1313/posts/the_reason_to_write_sth/</guid>
+      <description>&lt;p&gt;It has been a while since I graduated from college. Writing is not a habit of mine, even though it was required for more than 20 years.&lt;/p&gt;&#xA;&lt;p&gt;However, as you may have noticed already, human memory is &lt;em&gt;not reliable&lt;/em&gt;, and notes are often more &lt;em&gt;confusing&lt;/em&gt; than helpful. I feel the need to write something, for myself but not to myself.&lt;/p&gt;&#xA;&lt;p&gt;I also need a means of output to force myself to gain the required input. It is not uncommon for me to find myself reading without understanding, flipping through pages without grasping what the author intended to convey.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
